@@ -290,7 +290,7 @@
             ]
         },
         {
-            "type":"Electricity",
+            "type": "Electricity",
             "global_data": {
                 "time_interval": "Electricity",
                 "constraints": {
@@ -342,6 +342,29 @@
                 },
                 {
                     "id": "hydro_source_Uruguai"
+                }
+            ]
+        },
+        {
+            "type": "Electricity",
+            "global_data": {
+                "time_interval": "Electricity",
+                "constraints": {
+                    "BalanceConstraint": true
+                }
+            },
+            "instance_data": [
+                {
+                    "id": "elec_hydro_N"
+                },
+                {
+                    "id": "elec_hydro_NE"
+                },
+                {
+                    "id": "elec_hydro_S"
+                },
+                {
+                    "id": "elec_hydro_SE"
                 }
             ]
         },
@@ -781,7 +804,7 @@
                     "BalanceConstraint": false
                 }
             },
-            "instance_data":[
+            "instance_data": [
                 {
                     "id": "co2_storage_parana",
                     "constraints": {
