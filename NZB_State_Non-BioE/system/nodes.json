@@ -801,12 +801,131 @@
             "global_data": {
                 "time_interval": "CO2Captured",
                 "constraints": {
+                    "BalanceConstraint": true
+                }
+            },
+            "instance_data": [
+                {
+                    "id": "co2_transported_BR_AC",
+                    "location": "BR_AC"
+                },
+                {
+                    "id": "co2_transported_BR_AL",
+                    "location": "BR_AL"
+                },
+                {
+                    "id": "co2_transported_BR_AP",
+                    "location": "BR_AP"
+                },
+                {
+                    "id": "co2_transported_BR_AM",
+                    "location": "BR_AM"
+                },
+                {
+                    "id": "co2_transported_BR_BA",
+                    "location": "BR_BA"
+                },
+                {
+                    "id": "co2_transported_BR_CE",
+                    "location": "BR_CE"
+                },
+                {
+                    "id": "co2_transported_BR_DF",
+                    "location": "BR_DF"
+                },
+                {
+                    "id": "co2_transported_BR_ES",
+                    "location": "BR_ES"
+                },
+                {
+                    "id": "co2_transported_BR_GO",
+                    "location": "BR_GO"
+                },
+                {
+                    "id": "co2_transported_BR_MA",
+                    "location": "BR_MA"
+                },
+                {
+                    "id": "co2_transported_BR_MT",
+                    "location": "BR_MT"
+                },
+                {
+                    "id": "co2_transported_BR_MS",
+                    "location": "BR_MS"
+                },
+                {
+                    "id": "co2_transported_BR_MG",
+                    "location": "BR_MG"
+                },
+                {
+                    "id": "co2_transported_BR_PA",
+                    "location": "BR_PA"
+                },
+                {
+                    "id": "co2_transported_BR_PB",
+                    "location": "BR_PB"
+                },
+                {
+                    "id": "co2_transported_BR_PR",
+                    "location": "BR_PR"
+                },
+                {
+                    "id": "co2_transported_BR_PE",
+                    "location": "BR_PE"
+                },
+                {
+                    "id": "co2_transported_BR_PI",
+                    "location": "BR_PI"
+                },
+                {
+                    "id": "co2_transported_BR_RJ",
+                    "location": "BR_RJ"
+                },
+                {
+                    "id": "co2_transported_BR_RN",
+                    "location": "BR_RN"
+                },
+                {
+                    "id": "co2_transported_BR_RS",
+                    "location": "BR_RS"
+                },
+                {
+                    "id": "co2_transported_BR_RO",
+                    "location": "BR_RO"
+                },
+                {
+                    "id": "co2_transported_BR_RR",
+                    "location": "BR_RR"
+                },
+                {
+                    "id": "co2_transported_BR_SC",
+                    "location": "BR_SC"
+                },
+                {
+                    "id": "co2_transported_BR_SP",
+                    "location": "BR_SP"
+                },
+                {
+                    "id": "co2_transported_BR_SE",
+                    "location": "BR_SE"
+                },
+                {
+                    "id": "co2_transported_BR_TO",
+                    "location": "BR_TO"
+                }
+            ]
+        },
+        {
+            "type": "CO2Captured",
+            "global_data": {
+                "time_interval": "CO2Captured",
+                "constraints": {
                     "BalanceConstraint": false
                 }
             },
             "instance_data": [
                 {
-                    "id": "co2_storage_parana",
+                    "id": "co2_storage_Parana",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
@@ -815,7 +934,7 @@
                     }
                 },
                 {
-                    "id": "co2_storage_santos",
+                    "id": "co2_storage_Santos",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
@@ -824,7 +943,7 @@
                     }
                 },
                 {
-                    "id": "co2_storage_campos",
+                    "id": "co2_storage_Campos",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
@@ -833,7 +952,7 @@
                     }
                 },
                 {
-                    "id": "co2_storage_sao_francisco",
+                    "id": "co2_storage_Sao_Francisco",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
@@ -842,7 +961,7 @@
                     }
                 },
                 {
-                    "id": "co2_storage_reconcavo",
+                    "id": "co2_storage_Reconcavo",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
@@ -851,7 +970,7 @@
                     }
                 },
                 {
-                    "id": "co2_storage_sergipe_alagoas",
+                    "id": "co2_storage_Sergipe_Alagoas",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
@@ -860,7 +979,7 @@
                     }
                 },
                 {
-                    "id": "co2_storage_potiguar",
+                    "id": "co2_storage_Potiguar",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
@@ -869,7 +988,7 @@
                     }
                 },
                 {
-                    "id": "co2_storage_ceara",
+                    "id": "co2_storage_Ceara",
                     "constraints": {
                         "CO2StorageConstraint": true
                     },
