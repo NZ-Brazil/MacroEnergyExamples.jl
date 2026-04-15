@@ -355,16 +355,16 @@
             },
             "instance_data": [
                 {
-                    "id": "elec_hydro_N"
+                    "id": "elec_proxy_N"
                 },
                 {
-                    "id": "elec_hydro_NE"
+                    "id": "elec_proxy_NE"
                 },
                 {
-                    "id": "elec_hydro_S"
+                    "id": "elec_proxy_S"
                 },
                 {
-                    "id": "elec_hydro_SE"
+                    "id": "elec_proxy_SE"
                 }
             ]
         },
