@@ -9,7 +9,7 @@ CO2Injection,CO2_injection_DF,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE
 CO2Injection,CO2_injection_ES,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_ES,co2_storage_Espirito_Santo
 CO2Injection,CO2_injection_GO,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_GO,co2_storage_Parana
 CO2Injection,CO2_injection_MA,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_MA,co2_storage_Ceara
-CO2Injection,CO2_injection_MG,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_MG,co2_storage_Parana
+CO2Injection,CO2_injection_MG,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_MG,co2_storage_Sao_Francisco
 CO2Injection,CO2_injection_MS,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_MS,co2_storage_Parana
 CO2Injection,CO2_injection_MT,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_MT,co2_storage_Parecis
 CO2Injection,CO2_injection_PA,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,FALSE,TRUE,TRUE,CO2Captured,FALSE,TRUE,CO2Captured,1000,30,6,0.1,40,20,2,0,co2_transported_BR_PA,co2_storage_Parecis
