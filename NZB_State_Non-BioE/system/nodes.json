@@ -997,6 +997,24 @@
                     }
                 },
                 {
+                    "id": "co2_storage_Parecis",
+                    "constraints": {
+                        "CO2StorageConstraint": true
+                    },
+                    "rhs_policy": {
+                        "CO2StorageConstraint": 30000000
+                    }
+                },
+                {
+                    "id": "co2_storage_Espirito_Santo",
+                    "constraints": {
+                        "CO2StorageConstraint": true
+                    },
+                    "rhs_policy": {
+                        "CO2StorageConstraint": 6700000
+                    }
+                },
+                {
                     "id": "co2_storage_Ceara",
                     "constraints": {
                         "CO2StorageConstraint": true
